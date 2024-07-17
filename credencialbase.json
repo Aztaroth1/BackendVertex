@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "transferenciasvertex",
+  "private_key_id": "9212eee9b523c7122939ce28c4ccd05e6ebe6e4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWrHchQVoD8aiw\nI/J9upU2vzNbSabEbzDybGNjrzsy/kltTa8Rw1vGt1iIjtvIpOYcuSSGx8f2Vr4v\nHUT0k0uquIbCVHbIU00qxh10MsjeqgSincbFAWlfVkp6Om77QT1CIdeubgynZt/D\noCdPnk3K3TCaFhHCYXivJJyckzUSNNAwdBHaWIqu0imlMiLzIYjakxT4eNnB783A\ncLX8+pYPjfUE/ZXgXGD83+NK9PEKs3DlhVO9vJzCNXn64x81HaHMe6FYKObcGNrk\nSwoV2FXJoNfyqnlr+apl0cpvxDDw6B2LSgfpGdLY0KBFqXg6a9OzUu7zp/W9xL2a\nSNiEo9M/AgMBAAECggEANszrVzEJqD2QeN/aJlhiRNMtvpn/CZrXVpSNYYguI9HQ\nquyCLBe9nXy5upEa5tLyzqeX3V10IOhTq5cdqUaZUrJicPN/cES74D7GH6kI3dNA\ndFSmIqjsxjwAQoxWKRQFT7Q3Wb205H3KDMCHC7Ir4Qip0KEOPIBvAGR0gY4Y01HL\nLIbscbfzjAG00ppmywqrgZBzuTHl3vKBuYvWzdLHJ2xSiGej4jR79c2xLLLfrswJ\nGRNmuPOraNb6jPyH3kcdpHXPsVGY8T4C1XSyLCYTELvZclSTjm0uCiIx26yr4Mt7\nCveMD9TYZ/AFE+yFnmDpMJPWFdU2LKrWD+z1IHOqQQKBgQDJsJqobYTWt17vyQLv\naN366xIYG9e+TrE5zHKsTqwwNAwzb7bShGkCHRlqX/PdON86AhhIVSaE/9FSdhhw\nB+ZcGMhrRJglwIma+XDQj/iOe6kGj/LAS8lMewBh3KZrIfGq/BZeCEJWfypfDxru\nV2Bg+aadEYrY+BDZFZ7rXP0zpwKBgQC/PxXurktKaez3ZbVZ41kB1vlZNWkj3H4x\n39PC3VSo2g1FHpjQZjbWfmjfezie8ytLwU9nd/C8KaRX723Liw1NDX4nWbSlESyn\ntwwmAorEyF+WHrucvV9cP8py83LstvRuG7JoHOPxEJHLdbDu5fBYSewsUW5kn+MI\nnjxS05y2qQKBgQCzlyHfn8WNO7K5aQ/IBmTCrNZryT8OIhwFD1t8uoDwWygSFQOB\n6I1oaGjdI5uN/LooeP0OS2QFQZUuDCIuf5pLn3W2rlmcJBljeYFO9SOqG8qiIUNS\nnykbhNsOSN+WvZ7nVZjFGi2Xv5wHEPg2Cm+zahlF+vzbveeipXHguehsOQKBgHso\nSRt3qoy1QiDforXMLpl8sv674oVxjOLZXSl0FvzVzw3f8lDiQhZHOYoRdBkIR611\nQ4lCOAk0V905Ft+pIFuqgL8eibJzKOqoem5P3MV0s/mcuPzrBuoFOn5kQHIoL6ho\nta9OS4wGO51moRZ3hRuWHz07A3hRbocyP26nT5hhAoGBAIrPiVV5i6ivmBg1c/Gs\nMCnO/5jX2e0b5TTFu3yUOB0mqLu6np86ZLKKxc4HsHrZ2Xju6fngGz7pF14qsqfC\nFlHBFJ7BMlkEHa/M3e4AZt+gL0lFB7E4TIXB9jZj75rZmPdc7Rr51Ik+07hoq9Ft\nqzH8RuYse2eWGGW2NKg1MXg7\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-c45lf@transferenciasvertex.iam.gserviceaccount.com",
+  "client_id": "117974144356185083535",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-c45lf%40transferenciasvertex.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
